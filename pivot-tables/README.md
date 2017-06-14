@@ -1,3 +1,3 @@
-Pivot table tutorials using Pandas and SQLite for my blog. 
+Pivot table tutorials using Python/Pandas and SQLite for my blog. 
 
 
